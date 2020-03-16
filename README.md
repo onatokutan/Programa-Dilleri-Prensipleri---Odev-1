@@ -1,4 +1,4 @@
-1. GELİŞTİRİLEN YAZILIM
+- GELİŞTİRİLEN YAZILIM
 İşe ilk önce sesli harfleri, web sitelerini tespit etmek için kullanacağım girdileri tanımlamakla başladım. 
 Sesli harfler tek karakterli girdiler olacağı için bir char dizisi şeklinde tanımladım. Web sitesi uzantılarını tutmam gerektiği için 
 " .web.tr, .com.tr gibi" uygun olarak string tipinde tanımladım. Daha sonra integer tipinde saydırmak istediğim şeylerin değişkenlerini 
@@ -15,7 +15,7 @@ boşlukları gözeterek kelimeleri saydırdım.En son kısımda da sayaçları e
 teşekkür ederim.
 
 
-2. ÇIKTILAR
+- ÇIKTILAR
 Kelimelerden sonra boşluk gelecek şekilde dizayn edidi. Cümlelerin sonunda nokta ve noktadan sonra bir boşluk olması gerekmekte.
 
 Örnek çıktı 1.1

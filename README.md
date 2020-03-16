@@ -1,7 +1,7 @@
 1. GELİŞTİRİLEN YAZILIM
 İşe ilk önce sesli harfleri, web sitelerini tespit etmek için kullanacağım girdileri tanımlamakla başladım. 
 Sesli harfler tek karakterli girdiler olacağı için bir char dizisi şeklinde tanımladım. Web sitesi uzantılarını tutmam gerektiği için 
-- .web.tr, .com.tr gibi- uygun olarak string tipinde tanımladım. Daha sonra integer tipinde saydırmak istediğim şeylerin değişkenlerini 
+" .web.tr, .com.tr gibi" uygun olarak string tipinde tanımladım. Daha sonra integer tipinde saydırmak istediğim şeylerin değişkenlerini 
 oluşturdum.
 
 File tipinde ismi file olan bir nesne yaratıp Scanner yardımıyla gerekli dosya uzantısındaki “içerik.txt” isimli metin belgesini

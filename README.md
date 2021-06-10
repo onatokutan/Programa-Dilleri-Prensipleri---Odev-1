@@ -25,7 +25,7 @@ Kelimelerden sonra boşluk gelecek şekilde dizayn edidi. Cümlelerin sonunda no
 
 Örnek çıktı 1.1
 
-f****@s****.edu.tr(hocanın maili vermeyelim patlarız) sakarya.edu.tr www.google.com Esentepe 
+f****@s****.edu.tr sakarya.edu.tr www.google.com Esentepe 
 Kampüs sakarya.com iletisim@ford bu bir pdp ödevidir. 
 Sesli Harf Sayisi :38
 Kelime Sayisi :12
